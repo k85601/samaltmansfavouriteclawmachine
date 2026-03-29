@@ -4,7 +4,7 @@ Building Sam Altman`s claw machine wonderland.
 <img width="1536" height="1024" alt="GPU claw machine" src="https://github.com/user-attachments/assets/21eb3132-d92e-480a-80f0-313679b2857b" />
 <img width="1536" height="1024" alt="Computer heatsink claw machine" src="https://github.com/user-attachments/assets/1af9e3c4-617d-4744-bd90-61f25d0a7170" />
 
-# 🏗️ Claw Machine Investment
+# 🏗️ Claw Machine Investment(generating artificial intelgence tokens)
 
 A physics-based browser claw machine game with real gravity simulation, Newton's Laws, and collision detection. Built with vanilla JS + Canvas, deployable to Railway.app in one click.
 
@@ -21,7 +21,7 @@ npm start
 ```
 ---
 
-## 🏗️ How to Invest
+## 🏗️ How to Invest(generating artificial intelegence tokens)
 
 | Control | Action |
 |---|---|
