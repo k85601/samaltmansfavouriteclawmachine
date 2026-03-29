@@ -92,3 +92,7 @@ claw-machine-game/
 ## 📝 License
 
 MIT
+
+## 📝 Special thanks
+
+Mr Sam Altman giving dreams to lots of people
