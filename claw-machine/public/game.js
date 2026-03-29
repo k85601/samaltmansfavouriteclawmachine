@@ -480,7 +480,6 @@ function drawHUD() {
   // Speed display
   const speed = Math.abs(claw.ropeLength > 0 ?
     (state.phase === 'dropping' ? claw.dropSpeed : claw.returnSpeed) : 0);
-  document.getElementById('stat-speed').textContent = speed.toFixed(1) + ' m/s';
 }
 
 // ── UI UPDATES ────────────────────────────────────────────────
