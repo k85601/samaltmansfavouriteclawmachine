@@ -95,4 +95,4 @@ MIT
 
 ## 📝 Special thanks
 
-Mr Sam Altman giving dreams to lots of people
+Special thanks to Mr Sam Altman contribution and make anything possible.
