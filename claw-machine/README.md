@@ -29,7 +29,7 @@ npm start
 
 ---
 
-## 🎮 How to Play
+## 🏗️ How to Invest
 
 | Control | Action |
 |---|---|
