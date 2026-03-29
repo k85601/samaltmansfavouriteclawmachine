@@ -25,7 +25,7 @@ npm start
 
 | Control | Action |
 |---|---|
-| `←` / `→` Arrow Keys | Move claw left / right |
+| `←` / `→` / `↑` / `↓` Arrow Keys | Move claw left / right |
 | `SPACE` or DROP button | Release claw downward |
 | Drop prizes into the **CHUTE** (right side) to score! |
 
