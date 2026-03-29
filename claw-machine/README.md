@@ -1,4 +1,4 @@
-# 🎮 Claw Machine Game
+# 🏗️ Claw Machine Game
 
 A physics-based browser claw machine game with real gravity simulation, Newton's Laws, and collision detection. Built with vanilla JS + Canvas, deployable to Railway.app in one click.
 
