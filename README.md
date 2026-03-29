@@ -19,20 +19,6 @@ npm install
 npm start
 # Open http://localhost:3000
 ```
-
----
-
-## 🌐 Deploy to Railway
-
-1. Push this repo to GitHub
-2. Go to [railway.app](https://railway.app) → **New Project**
-3. Select **Deploy from GitHub repo**
-4. Choose this repository
-5. Railway auto-detects Node.js and runs `npm start`
-6. Your game is live at `https://your-app.railway.app` 🎉
-
-> Railway uses `railway.json` for config. The `PORT` env variable is set automatically.
-
 ---
 
 ## 🏗️ How to Invest
